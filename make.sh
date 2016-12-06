@@ -1,0 +1,1 @@
+ g++ -g -Wall -fpermissive  -std=c++11 main.cc -o test
